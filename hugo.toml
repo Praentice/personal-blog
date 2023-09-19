@@ -1,0 +1,7 @@
+baseURL = 'https://www.corentinollivier.com/'
+languageCode = 'en-us'
+title = 'Corentin Ollivier'
+theme = 'anatole'
+
+
+

@@ -1,0 +1,11 @@
+[fr]
+title = "Mon blog"
+weight = 1
+LanguageName = "FR"
+contentDir = "content/french"
+
+[en]
+title = "My blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
