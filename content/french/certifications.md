@@ -6,8 +6,9 @@ aliases = ["certifications"]
 author = "Hugo Authors"
 +++
 
-## 3 Best Hugo Courses, Training, Classes & Tutorials Online
+- [BTL1](https://www.credly.com/badges/9cf0266b-264e-4fdb-bcf7-534e7abbdb92/public_url) (Blue Team Level 1) par Security Blue Team (ID : 614723679) obtenu en avril 2023
 
-1. “Migrate from WordPress to Hugo, Step by Step” Our Best Pick 2022
-2. Create a Static Site With Hugo 2021
-3. Créez votre site statique avec Hugo 2020
+- TOIEC obtenu le juin 2022 avec un score de 965/990 (Expire en juin 2024)
+
+
+

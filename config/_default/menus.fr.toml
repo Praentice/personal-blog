@@ -41,7 +41,7 @@
   url = "/contact/"
 
   [[footer]]
-  name = "imprint"
+  name = "Mentions légales"
   weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+  identifier = "legal"
+  url = "/legal/"

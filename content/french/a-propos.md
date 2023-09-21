@@ -8,4 +8,4 @@ author = "Hugo Authors"
 
 Salut, moi c'est Corentin.
 
-Je suis ingénieur en cyberdéfense.
+Je suis un ingénieur en cybersécurité spécialisé dans la cybersécurité défensive. En effet, j'ai un penchant pour l'investigation numérique, peu importe le type de support (copie de disque dur, mémoire RAM...). Ceci étant dit, cela ne m'empêche pas de passer du côté offensif de temps en temps pour me détendre un peu.

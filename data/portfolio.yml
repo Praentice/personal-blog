@@ -6,7 +6,7 @@ portfolioitems:
         image: '/images/portfolio/code.jpg'
         link: https://github.com/Praentice/uxdp
         linktext: 'Dépôt GitHub du projet'
-        description: "Au cours de ma dernière année d'ingénieur à l'ENSIBS, nous avons créé un logiciel de pare-feu basé sur la technologie XDP/eBPF du noyau Linux pour protéger les serveurs Linux."
+        description: "Au cours de ma dernière année d'ingénieur à l'ENSIBS et avec trois collègues de ma promotion, nous avons créé un logiciel de pare-feu basé sur la technologie XDP/eBPF du noyau Linux pour protéger les serveurs Linux."
         tags:
           - Linux
           - Réseau
@@ -18,8 +18,10 @@ portfolioitems:
         start: '2022'
         end: '2023'
         authors:
-          - lxndrblz
-          - alexanderdavide
+          - Corentin Ollivier
+          - Gustave
+          - 
+          - 
 
   # portfolio category
   - title: Projet personnel
@@ -31,4 +33,6 @@ portfolioitems:
         description: "J'ai créé un site de type cheatsheet dédié à la cybersécurité défensive, dans le même style que HackTricks pour les connaisseurs."
         tags:
           - DFIR
-          - Site web
+          - SiteWeb
+        authors:
+          - Corentin Ollivier
