@@ -1,5 +1,5 @@
 baseURL = 'https://www.corentinollivier.com/'
-languageCode = 'en-us'
+languageCode = 'fr-fr'
 title = 'Corentin Ollivier'
 theme = 'anatole'
 
