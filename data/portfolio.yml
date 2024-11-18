@@ -19,20 +19,6 @@ portfolioitems:
         end: '2023'
         authors:
           - Corentin Ollivier
+          - Marie
           - Gustave
-          - 
-          - 
-
-  # portfolio category
-  - title: Projet personnel
-    portfolioitem:
-      - name: DFIR Recipes (Anciennement DF Recipes)
-        image: '/images/portfolio/code.jpg'
-        link: https://www.dfirrecipes.com/
-        linktext: 'Lien site web'
-        description: "J'ai créé un site de type cheatsheet dédié au monde de la cybersécurité défensive (Réponse à incident, forensique numérique...), dans le même style que HackTricks pour les connaisseurs."
-        tags:
-          - DFIR
-          - SiteWeb
-        authors:
-          - Corentin Ollivier
+          - Inès
