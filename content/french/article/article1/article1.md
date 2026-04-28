@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi je retrouve (trop souvent) vos nudes chez Emmaüs ?"
+title: 'Pourquoi je retrouve (trop souvent) vos nudes chez Emmaüs ?'
 date: 2026-04-14T17:30:00+01:00
 draft: false
 tags:
