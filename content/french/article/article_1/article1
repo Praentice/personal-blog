@@ -1,0 +1,92 @@
+---
+title: "Pourquoi je retrouve (trop souvent) vos nudes chez Emmaüs ?"
+date: 2026-04-14T17:30:00+01:00
+draft: false
+tags:
+  - disque dur
+  - formatage
+  - fuite de données
+---
+
+# Pourquoi je retrouve (trop souvent) vos nudes chez Emmaüs ?
+
+Nous parlons beaucoup récemment des fuites de données. En effet, il y en a beaucoup au point que la France dans le top 10 mondial de la liste des pays les plus touchés par les cyberattaques. Certaines langues caustiques y voient déjà un domaine dans lequel la France performe.
+
+Dans cet article, je vais effectivement vous parler de fuites de données. Non pas venant de sites en ligne mais BIEN de vous. 
+
+En effet, nous jetons tous des appareils électroniques (Moi-même compris) dysfonctionnels et donnons ceux qui fonctionnent encore à des associations comme Emmaüs : Des téléphones, ordinateurs et etc...
+Que je vous rassure, je n'ai rien contre ça, le problème n'est pas là. Là où cela peut le devenir, c'est la façon dont vous le préparez à le jeter. 
+
+En effet, pensez-vous à formater correctement le disque dur ? Voir même à le retirer de l'ordinateur lorsque ce dernier est dysfonctionnel ? 
+
+Moi, je peux vous dire que ce n'est pas le cas et que j'ai passé beaucoup de bonnes soirées à décortiquer ce que je vous jetez. 😏
+
+
+
+Vous allez peut-être me rétorquer que _"Oui mais je suis sûr que ca concerne uniquement une minorité des disques durs que tu récupères"_ 
+
+Vous savez quoi ? 
+
+![Julien lepers c'est non :) ](julien-lepers-c-est-non.gif)
+
+Sur l'ensemble des disques durs que j'ai récupéré depuis 1 ans (Soit une centaine environ), voici quelques statistiques : 
+
+- Les 2/3 n'étaient pas **formatés**. (Autrement dit, il suffisait de brancher le disque dur avec un adaptateur commandé chez Amazon pour 15€ TTC sur un ordinateur pour tout siphonner)
+- Sur le 1/3 restant, Les disques durs **semblaient formatés** mais il était **possible de récupérer les informations dans la quasi-majorité des cas.** (Comme avant, moyennant une petite opération technique en plus.)
+
+Autrement dit, sur la totalité des disques durs récupérés chez Emmaüs, eBay, Leboncoin, il était possible de récupérer le contenu de 90% des disques durs, mêmes sur ceux où l'ancien propriétaire a cru bien faire en tentant de les formater.
+
+## La différence entre le bon et le mauvais formatage ?
+
+En lisant ces statistiques, vous allez peut-être me demander : 
+
+_Où veux-tu en venir avec tes statistiques sorti de nulle part ?_
+
+Je vous répondrai que tout d'abord, cela montre que peu de personnes ont pris conscience de ce qu'ils pouvaient jeter. Et ensuite, qu'il existe une grosse différence entre le bon et mauvais formatage de disque dur :
+
+Le mauvais formatage, c'est quand vous formatez rapidement un disque dur : 
+
+![alt text](mauvais_chasseurs.gif)
+
+Et le bon formatage, c'est quand vous formatez lentement un disque dur : 
+
+![alt text](bon_chasseurs.gif)
+
+Plus sérieusement, il existe au moins deux manières de formater un disque dur sur Windows par exemple. La première étant le formatage rapide et la deuxième, le formatage lent.
+
+![alt text](formatage_windows.png)
+> ici, la case souligné en rouge est coché, ce sera donc un formatage rapide qui sera appliqué.
+
+Pour mieux vous expliquer ce que cela implique, il faut se pencher sur le fonctionnement d'un ordinateur. Dans ce dernier, il y a un disque dur à l'intérieur dont l'espace de stockage est divisé en plusieurs partitions (Soit plusieurs sous-ensembles qui, additionnés, correspond à l'ensemble de l'espace de stockage disponible sur un disque dur): 
+
+- Une partition pour contenir les fichier systèmes.
+- Une partition pour contenir vos données personnels.
+
+L'ordinateur, à chaque démarrage, doit retrouver les fichiers systèmes à utiliser pour se lancer, il utilise donc une table des partition qui indique, d'une part, la façon dont le disque dur est organisé et d'autre part, là où commence chaque partition et à fortuiri, l'emplacement des fichiers de l'utilisateur.  
+
+Pour vous aider à comprendre le fonctionnement de ce mécanisme, Imaginez cette situation : 
+
+Admettons que vous ayez décroché un emploi dans une usine situé dans une zone d'activité quelconque. Pour votre premier jour, vous vous rendez devant l'entrée de la zone d'activité (Votre disque dur). Ne sachant pas où se situe l'usine, vous lisez le plan de la ZA (La table des partitions) et constatez que l'usine est situé au numéro 14 dans la partie nord-est. (Ici, la partition système). Une fois que vous avez cette information en tête, vous vous y rendez pour commencer votre journée de travail. Une fois la pause de midi arrivée, vous vous rendez compte que vous ne mangez pas dans l'usine mais bien dans une cantine toujours situé dans la ZA (Ici, la partition contenant vos fichiers). Alors vous relisez le plan de la ZA à nouveau (Toujours la table des partitions) pour savoir où se situe cette même cantine afin de vous y rendre. 
+
+Maintenant, passons à l'explication du formatage. Le formatage consiste à préparer un support de stockage (Disque dur, clef USB...) afin qu'il soit reconnu par le système d'exploitation de votre ordinateur. Cela étant écrit, nous utilisons également par abus de langage ce même verbe pour désigner le fait de supprimer les données d'un disque dur. Cette phase de préparation implique donc d'avoir un support de stockage "vierge" de toutes données. Ce formatage peut être fait rapidement ou lentement. Pour en revenir à ce que j'ai écrit précédemment, le formatage rapide va consister à supprimer uniquement la table des partitions. Le formatage lent, lui, va supprimer l'ensemble des données contenus sur le disque dur en réinitialisant son espace de stockage.
+
+Pour en revenir à l'analogie, le formatage rapide va consister à supprimer uniquement le plan de la zone d'activité. Mais le problème est, qu'en prenant le temps d'explorer la zone d'activité, vous retrouverez aisément l'ensemble des entreprises s'y situant. A la fin, vous serez même en mesure de reconstituer un plan décrivant la topologie de cette même zone.
+Le formatage lent, lui, va supprimer le plan de la ZA et raser l'ensemble des bâtiments s'y trouvant pour laisser place à un beau terrain vierge préservé de toutes constructions. A la fin, vous serez incapable d'expliquer qu'à tel endroit de l'ancienne ZA, qu'il y avait par exemple une entreprise qui se situait-là.
+
+Et il est là le coeur du problème : Même en voulant bien faire, juste par méconnaissance de l'informatique, votre mauvaise utilisation d'un outil aura de sérieuses conséquences pour votre vie privée.
+
+- L'ordinateur a été jeté ou donné sans retirer le disque dur ? Quelqu'un peut l'extraire, le revendre sur Internet et atterir dans les mains de quiconque (Y compris des miennes)
+- Le disque a été formaté rapidement ? Un informaticien avec des compétences basiques peut retrouver rapidement les données, c'est garanti sur facture.
+- Le disque a été formaté lentement ? C'est bon, vos données sont à l'abri 😊
+
+La solution ? Assurez-vous de ne **PAS** cocher la case _Effectuer un formatage rapide_ si vous êtes sous Windows.
+Et si l'ordinateur ne fonctionne plus ? Démontez-le et récupérer le disque dur contenu à l'intérieur. Vous trouverez aisément des tutoriels pour y parvenir en fonction du modèle de votre ordinateur. Sinon demandez à quelqu'un qui s'y connait suffisament l'informatique pour le faire à votre place 😉 
+
+Merci pour votre temps et je vous dis à une prochaine fois dans un autre article.
+
+
+
+
+
+## Sources
+1. https://www.usine-digitale.fr/article/la-france-le-deuxieme-pays-le-plus-touche-par-les-fuites-de-donnees.N2235363
