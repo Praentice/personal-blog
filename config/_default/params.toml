@@ -64,7 +64,7 @@ url = "https://www.linkedin.com/in/corentin-ollivier/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:contact@corentinollivier.com"
+url = "mailto:corentin.ollivier@outlook.fr"
 
 [mermaid]
 # enable = true
