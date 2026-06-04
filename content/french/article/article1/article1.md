@@ -8,8 +8,6 @@ tags:
   - fuite de données
 ---
 
-# Pourquoi je retrouve (trop souvent) vos nudes chez Emmaüs ?
-
 Nous parlons beaucoup récemment des fuites de données. En effet, il y en a beaucoup au point que la France dans le top 10 mondial de la liste des pays les plus touchés par les cyberattaques. Certaines langues caustiques y voient déjà un domaine dans lequel la France performe.
 
 Dans cet article, je vais effectivement vous parler de fuites de données. Non pas venant de sites en ligne mais BIEN de vous. 
@@ -20,8 +18,6 @@ Que je vous rassure, je n'ai rien contre ça, le problème n'est pas là. Là o�
 En effet, pensez-vous à formater correctement le disque dur ? Voir même à le retirer de l'ordinateur lorsque ce dernier est dysfonctionnel ? 
 
 Moi, je peux vous dire que ce n'est pas le cas et que j'ai passé beaucoup de bonnes soirées à décortiquer ce que je vous jetez. 😏
-
-
 
 Vous allez peut-être me rétorquer que _"Oui mais je suis sûr que ca concerne uniquement une minorité des disques durs que tu récupères"_ 
 
