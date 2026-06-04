@@ -23,7 +23,7 @@ Vous allez peut-être me rétorquer que _"Oui mais je suis sûr que ca concerne 
 
 Vous savez quoi ? 
 
-![Julien lepers c'est non :) ](julien-lepers-c-est-non.gif)
+![Julien lepers c'est non :) ](/images/articles/majulien-lepers-c-est-non.gif)
 
 Sur l'ensemble des disques durs que j'ai récupéré depuis 1 ans (Soit une centaine environ), voici quelques statistiques : 
 
@@ -42,15 +42,15 @@ Je vous répondrai que tout d'abord, cela montre que peu de personnes ont pris c
 
 Le mauvais formatage, c'est quand vous formatez rapidement un disque dur : 
 
-![alt text](mauvais_chasseurs.gif)
+![Petit meme bien français](/images/articles/mauvais_chasseurs.gif)
 
 Et le bon formatage, c'est quand vous formatez lentement un disque dur : 
 
-![alt text](bon_chasseurs.gif)
+![Petit meme bien français](/images/articles/bon_chasseurs.gif)
 
 Plus sérieusement, il existe au moins deux manières de formater un disque dur sur Windows par exemple. La première étant le formatage rapide et la deuxième, le formatage lent.
 
-![alt text](formatage_windows.png)
+![Petit meme bien français](/images/articles/formatage_windows.png)
 > ici, la case souligné en rouge est coché, ce sera donc un formatage rapide qui sera appliqué.
 
 Pour mieux vous expliquer ce que cela implique, il faut se pencher sur le fonctionnement d'un ordinateur. Dans ce dernier, il y a un disque dur à l'intérieur dont l'espace de stockage est divisé en plusieurs partitions (Soit plusieurs sous-ensembles qui, additionnés, correspond à l'ensemble de l'espace de stockage disponible sur un disque dur): 
